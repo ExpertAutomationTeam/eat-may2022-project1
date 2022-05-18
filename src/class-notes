@@ -1,0 +1,15 @@
+in java everything has to be within a class
+main method is the starting point of any program
+print statement displays anything in the console
+in java we can use // for single line comment or /**/ for multiple lines comment
+any statement has to finish with (;) except block {}
+naming in java:
+    - names can contain letters, digits, underscores, dollars sign
+    - must start with lower case letter or underscore or dollars sign
+    - no white spacing
+    - cannot use any java keyword
+    - use camel case (ex: exampleOfCamelCase)
+a final variable cannot be reassigned
+a non-primitive variable is a powerful variable that can be manipulated
+while loop checks the condition first then executes the code
+do while loop executes the code then checks the condition
