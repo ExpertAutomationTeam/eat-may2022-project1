@@ -13,3 +13,16 @@ a final variable cannot be reassigned
 a non-primitive variable is a powerful variable that can be manipulated
 while loop checks the condition first then executes the code
 do while loop executes the code then checks the condition
+java is all about classes and objects
+a java class is a blueprint
+method: is a reusable block of code that is working only when called
+in java object is instance of a class
+object or instance of a class inherits all the class properties
+java is hardly typed language
+modifiers:
+    - access modifiers: public / private / default / protected
+    - non-access modifiers: final / static / abstract
+non-static method can use both static and non-static variables
+static method cam use only static variables
+non-static properties belong to the object
+static properties belong to the class

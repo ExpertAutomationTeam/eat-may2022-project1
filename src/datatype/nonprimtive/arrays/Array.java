@@ -6,10 +6,10 @@ class Array {
         //syntax: variableType[] arrayName = {value1, value2, value3 ... }
         int[] array1 = {0, 6, 5, 1, 4};
 
-        System.out.println(array1[2]);
+        System.out.println(array1[7]);
 
         //declare array
-        int[] array2 = new int[5];
+        int[] array2 = new int[3];
 
         //assign array
         //array2[0] = 4;
