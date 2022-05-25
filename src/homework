@@ -1,0 +1,23 @@
+Homework1:
+1- choose your website and write 20 test cases.
+2- go through sql course on: https://www.w3schools.com/sql/default.asp
+3- solve all mysql queries using employee database installed on your local machines
+
+tips:
+start mysql server in mac/windows: mysql.server start / mysqld start
+access mysql server with password/without password: mysql -u root -p / mysql -u root
+show databases: show databases;
+switch to employee db: use employee;
+read employees table: select * from employees;
+
+Homework2:
+1- create java code to print Hello World
+2- compile and run the code with the help of the terminal
+3- String manipulation: apply as many string manipulation method as you can
+
+Homework3:
+1- Shuffle game assignment
+2- in small project create 2 class (blueprint and main class) then create multiple properties (variables, methods, constructors)
+call the properties from the runnable class
+3- create github account and create github repo then push project number (2). Share the link with me
+4- watch the video and redo the whole code

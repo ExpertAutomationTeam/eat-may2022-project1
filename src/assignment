@@ -1,4 +1,4 @@
-Project1: temp converter
+Project1: temperature converter
 
 Hint: use do while / while / scanner / int mode / int tempToConvert / int tempConverted / if statement / print statement
 
@@ -30,3 +30,39 @@ if yes (do again - loop to line 15)
 
 if no (print bye message)
 -----------------------------Good bye, see you soon----------------------------------
+
+
+
+Project2: shuffle game
+
+Hint: method (return and non-return), classes, if statement, print statement, recursion
+
+int[] array = {1,0,1};
+
+print (welcome message and instructions)
+------------------------------welcome to shuffle game--------------------------------
+guess where the 0 is ?
+
+ask user if ready to start (handle add entry cases)
+are you ready to play? y/n
+
+if y:
+invoke shuffle game method
+shuffle the game
+
+ask user to choose position
+pick 1, 2 or 3!
+
+print results of user guess
+if good guess:
+good guess!
+if not good guess:
+sorry!!! wrong guess
+
+ask if user wants to play again (handle the case if answer is not the right one)
+do you want to try again? y/n
+
+if y:
+loop the game
+if n:
+---------------------------------see you next time!-----------------------------------
