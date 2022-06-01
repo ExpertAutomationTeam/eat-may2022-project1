@@ -1,33 +1,31 @@
-package switchstatement;
+package switchandenum;
 
 public class Day {
 
-    public void taskToDo(String day){
+    public void taskToDo(Week day){
 
         switch (day){
-            case "Mon":
+            case MON:
                 System.out.println("first class");
                 break;
-            case "Tue":
+            case TUE:
                 System.out.println("second class");
                 break;
-            case "Wed":
+            case WED:
                 System.out.println("review the recording 1");
                 break;
-            case "Thu":
+            case THU:
                 System.out.println("review the recording 2");
                  break;
-            case "Fri":
+            case FRI:
                 System.out.println("do homework");
                 break;
-            case "Sat":
+            case SAT:
                 System.out.println("practice");
                 break;
-            case "Sun":
+            case SUN:
                 System.out.println("submit homework");
                 break;
-            default:
-                System.out.println("invalid day");
         }
 
     }

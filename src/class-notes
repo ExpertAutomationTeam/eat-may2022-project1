@@ -9,7 +9,6 @@ naming in java:
     - no white spacing
     - cannot use any java keyword
     - use camel case (ex: exampleOfCamelCase)
-a final variable cannot be reassigned
 a non-primitive variable is a powerful variable that can be manipulated
 while loop checks the condition first then executes the code
 do while loop executes the code then checks the condition
@@ -26,3 +25,24 @@ non-static method can use both static and non-static variables
 static method cam use only static variables
 non-static properties belong to the object
 static properties belong to the class
+
+git commands:
+git init
+git remote add origin <url>
+git add .
+git commit -m "message"
+git push -u origin master
+
+oops:
+    - encapsulation: data hiding (variables)
+    - inheritance: attribute inheritance from a class to another (classes)
+    - polymorphism: method overloading and method overriding (methods)
+    - abstraction: implementation hiding (road map)
+
+final keyword:
+    - final variable cannot be reassigned
+    - final class cannot be inherited
+
+abstract keyword:
+    - abstract keyword makes a class hybrid interface/class
+    - abstract keyword makes methods abstract (they cannot be implemented)
