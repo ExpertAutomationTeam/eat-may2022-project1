@@ -22,7 +22,7 @@ modifiers:
     - access modifiers: public / private / default / protected
     - non-access modifiers: final / static / abstract
 non-static method can use both static and non-static variables
-static method cam use only static variables
+static method can use only static variables
 non-static properties belong to the object
 static properties belong to the class
 
@@ -46,3 +46,7 @@ final keyword:
 abstract keyword:
     - abstract keyword makes a class hybrid interface/class
     - abstract keyword makes methods abstract (they cannot be implemented)
+
+recursion is when a method calls itself
+
+map is object that apply the concept of key/value pair
